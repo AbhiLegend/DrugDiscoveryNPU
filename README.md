@@ -1,4 +1,6 @@
+##
 Import Libraries: The code imports necessary libraries from RDKit, PIL, NumPy, PyTorch, and OpenVINO. These libraries are used for chemical informatics, image processing, numerical operations, deep learning, and efficient model deployment respectively.
+##
 Function to Convert SMILES to Fingerprints:
 smiles_to_fp: This function takes a SMILES string and converts it into a molecular fingerprint using RDKit. The fingerprint is a binary vector representation that captures the presence or absence of certain molecular substructures. This is crucial for the next steps where machine learning models predict chemical properties based on these fingerprints.
 Load and Compile the Machine Learning Model:
