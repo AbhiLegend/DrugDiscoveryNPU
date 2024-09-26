@@ -1,5 +1,5 @@
 ##
-https://camo.githubusercontent.com/8693bde04030b1670d5097703441005eba34240c32d1df1eb82a5f0d6716518e/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667
+
 Import Libraries: The code imports necessary libraries from RDKit, PIL, NumPy, PyTorch, and OpenVINO. These libraries are used for chemical informatics, image processing, numerical operations, deep learning, and efficient model deployment respectively.
 
 ##
