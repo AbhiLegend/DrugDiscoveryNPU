@@ -1,4 +1,5 @@
 ##
+# Awesome OpenVINO ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 Import Libraries: The code imports necessary libraries from RDKit, PIL, NumPy, PyTorch, and OpenVINO. These libraries are used for chemical informatics, image processing, numerical operations, deep learning, and efficient model deployment respectively.
 
